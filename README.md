@@ -25,4 +25,8 @@ https://cale.es/get-started
 Reach out Cale-IDF repository:
 https://github.com/martinberlin/cale-idf
 
-![Circuit Diagram](https://github.com/UsefulElectronics/RaspberryPi-Alternative-BPi-M3-Remote-Development/blob/main/Pictures/hardware.PNG)
+![Circuit Diagram](https://github.com/UsefulElectronics/esp32-depg750bn-epaper-cale-idf-/blob/master/System%20Diagram/System%20Diagram.PNG)
+
+showing Bitcoint price chart on e-Paper. Frame is obtained from Cale.es server. 
+
+![Circuit Diagram](https://github.com/UsefulElectronics/esp32-depg750bn-epaper-cale-idf-/blob/master/System%20Diagram/bitcoin%20price%20chart.PNG)
